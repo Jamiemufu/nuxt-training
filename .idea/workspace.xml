@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e0a5ac2-174f-4417-bdae-75f6c3cfc726" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-first-nuxt-app/pages/users/_id/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-first-nuxt-app/pages/users/index.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-first-nuxt-app" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="ProjectId" id="1gOuZ4fbWvUMVPInUAxqJgZGsyV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vuejs.nuxt.types-notification-shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/my-first-nuxt-app/pages/users/id" />
+      <recent name="$PROJECT_DIR$/my-first-nuxt-app/pages/users/index" />
+      <recent name="$PROJECT_DIR$/my-first-nuxt-app/pages/users" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0a5ac2-174f-4417-bdae-75f6c3cfc726" name="Default Changelist" comment="" />
+      <created>1597998013053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597998013053</updated>
+      <workItem from="1597998014566" duration="179000" />
+      <workItem from="1597998216427" duration="52000" />
+      <workItem from="1597998337251" duration="5313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="/bin/zsh" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1072" y="361" key="#Vue" timestamp="1597998584834">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1072" y="361" key="#Vue/-1792.343.1792.1097/0.23.2560.1417@0.23.2560.1417" timestamp="1597998584834" />
+    <state x="1080" y="316" width="1166" height="722" key="SettingsEditor" timestamp="1598003683533">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1080" y="316" width="1166" height="722" key="SettingsEditor/-1792.343.1792.1097/0.23.2560.1417@0.23.2560.1417" timestamp="1598003683533" />
+    <state x="1045" y="582" key="cloudConfig.PluginsDialog" timestamp="1597998486008">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1045" y="582" key="cloudConfig.PluginsDialog/-1792.343.1792.1097/0.23.2560.1417@0.23.2560.1417" timestamp="1597998486008" />
+    <state x="1156" y="582" key="cloudConfig.SelfSettingsDialog" timestamp="1597998059866">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1156" y="582" key="cloudConfig.SelfSettingsDialog/-1792.343.1792.1097/0.23.2560.1417@0.23.2560.1417" timestamp="1597998059866" />
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup" timestamp="1598003118713">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="945" y="348" width="670" height="676" key="search.everywhere.popup/-1792.343.1792.1097/0.23.2560.1417@0.23.2560.1417" timestamp="1598003118713" />
+  </component>
+</project>
